@@ -50,6 +50,7 @@ public class Codec {
                 ((LinkedList<TreeNode>) queue).add(node.right);
             }
         }
+        //删除叶子节点的空指针.
         while("null".equals(list.get(list.size()-1))){
             ((LinkedList<String>) list).removeLast();
         }
@@ -72,13 +73,19 @@ public class Codec {
             return null;
         }
         String[] nums = data.substring(1,data.length()-1).split(",");
+        //已在树上节点队列
         Queue<TreeNode> queue = new LinkedList<>();
+        //根节点
         TreeNode root = new TreeNode(Integer.parseInt(nums[0]));
+        //
         ((LinkedList<TreeNode>) queue).add(root);
+        //当前待分配节点
         int index = 0;
+        //左孩子节点标志
         boolean isLeftChild = true;
         for (int i = 1; i < nums.length; i++) {
             if(!"null".equals(nums[i])){
+                //分配新节点
                 TreeNode node = new TreeNode(Integer.parseInt(nums[i]));
                 if(isLeftChild){
                     ((LinkedList<TreeNode>) queue).get(index).left = node;
