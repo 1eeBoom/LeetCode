@@ -21,7 +21,22 @@ package medium;
  */
 public class IncreasingTriplet {
     public boolean increasingTriplet(int[] nums) {
-        //先固定住一个数字
+        //先将两个数字的序列确定下来
+        int num1 = Integer.MAX_VALUE;
+        int num2 = Integer.MAX_VALUE;
+        for (int i = 0; i < nums.length; i++) {
 
+            //找到第三个数
+            if(nums[i]>num2)
+                return true;
+            //如果遇到比第一个数小的则更新,
+            //后面即使再次更新也没关系,因为num2的存在表示前面已经有一个长度为2的递增序列
+            if(nums[i]<num1)
+                num1=nums[i];
+            //找到长度为2的序列
+            if(nums[i]>num1&&nums[i]<num2)
+                num2=nums[i];
+        }
+        return false;
     }
 }
