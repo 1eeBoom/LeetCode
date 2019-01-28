@@ -16,11 +16,6 @@ package medium;
  * 原因：342 + 465 = 807
  */
 
-class ListNode {
-  int val;
-  ListNode next;
-  ListNode(int x) { val = x; }
-}
 public class AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         int len1 = 0;

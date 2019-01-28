@@ -23,12 +23,7 @@ import java.util.Queue;
  * 序列化为 "[1,2,3,null,null,4,5]"
  * 说明: 不要使用类的成员 / 全局 / 静态变量来存储状态，你的序列化和反序列化算法应该是无状态的
  */
-class TreeNode {
-      int val;
-      TreeNode left;
-      TreeNode right;
-      TreeNode(int x) { val = x; }
-}
+
 
 public class Codec {
 
