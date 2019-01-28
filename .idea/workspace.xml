@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb41fd7e-9646-48bf-a751-a925aef79d29" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/CheckInclusion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/Codec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ColorClassification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/Compare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/FindKthLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/FindPeakElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/Interval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/LongestIncreasingSubsequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/Merge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/PreKHighFrequencyWords$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/PreKHighFrequencyWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SearchMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SearchRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SearchSortNums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SetZeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ThreeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/WordSearch.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,19 +34,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/IncreasingTriplet.java">
+        <entry file="file://$PROJECT_DIR$/src/medium/AddTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            <state relative-caret-position="220">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/medium/AddTwoNumbers.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1451">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            <state relative-caret-position="286">
+              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -155,10 +175,11 @@
         <option value="$PROJECT_DIR$/src/medium/LongestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/medium/IncreasingTriplet.java" />
         <option value="$PROJECT_DIR$/src/medium/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -169,8 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,27 +197,18 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548139873472" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548228848489" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -327,7 +337,8 @@
       <workItem from="1548051674816" duration="1812000" />
       <workItem from="1548064230295" duration="819000" />
       <workItem from="1548120277919" duration="6889000" />
-      <workItem from="1548213047756" duration="1290000" />
+      <workItem from="1548213047756" duration="1928000" />
+      <workItem from="1548223105012" duration="879000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1543330152209</created>
@@ -403,7 +414,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80299000" />
+    <option name="totallyTimeSpent" value="81816000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,9 +426,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20113085" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20436187" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -435,7 +446,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.329927" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.729927" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.729927" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -691,6 +702,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -753,10 +771,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/AddTwoNumbers.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1451">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state relative-caret-position="286">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
         </state>
       </provider>
     </entry>
