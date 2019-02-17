@@ -42,6 +42,13 @@ public class InorderTraversal {
          list.addAll(inorderTraversal(root.right));
          return list;
     }
+
+    /**
+     * 迭代算法
+     * 中序遍历使用栈
+     * @param root
+     * @return
+     */
     public List<Integer> inorderTraversal1(TreeNode root) {
         List<Integer> list = new LinkedList<Integer>();
         Stack<TreeNode> stack = new Stack<TreeNode>();
