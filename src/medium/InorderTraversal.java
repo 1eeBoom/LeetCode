@@ -4,6 +4,8 @@ package medium;
  * Created By LeeBoom On 2019/2/15 21:30
  */
 
+import struct.TreeNode;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;

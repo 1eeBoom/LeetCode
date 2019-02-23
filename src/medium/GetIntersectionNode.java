@@ -4,6 +4,8 @@ package medium;
  * Created By LeeBoom On 2019/2/15 12:13
  */
 
+import struct.ListNode;
+
 /**
  * 相交链表
  * 编写一个程序，找到两个单链表相交的起始节点。
