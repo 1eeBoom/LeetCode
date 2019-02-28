@@ -22,6 +22,7 @@ import java.util.*;
  * 尽管上面的答案是按字典序排列的，但是你可以任意选择答案输出的顺序。
  */
 public class LetterCombinations {
+    //普通方法
     public List<String> letterCombinations(String digits) {
         char[] nums = digits.toCharArray();
         List<String> list = new LinkedList<>();
@@ -54,6 +55,50 @@ public class LetterCombinations {
             }
         }
         return list;
+    }
+    //回溯法求解
+
+    /**
+     * 思路：
+     * 回溯法利用递归实现
+     * @param digits
+     * @return
+     */
+    public List<String> letterCombinations1(String digits) {
+        List<String> list = new LinkedList<>();
+        String[] map = {"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+        if(digits.length() == 0)
+        {
+            return list;
+        }
+        backTrack("",digits,list,map);
+        return list;
+    }
+
+    /**
+     * 递归方法
+     * @param s
+     * @param num
+     * @param list
+     * @param map
+     */
+    private void backTrack(String s, String num, List<String> list,String[] map) {
+        //递归结束条件：当前数字长度为0
+        if ("".equals(num)) {
+            list.add(s);
+        } else {
+            //取当前数字的第一个数字
+            String n = num.substring(0, 1);
+            //取得数字的映射字符串
+            String str = map[Integer.valueOf(n) - 2];
+            char[] chars = str.toCharArray();
+            //将映射字符串中的每个字符取出，加入到当前字符串的末尾组成新的字符串
+            //将新字符串和剩下的数字作为参数递归调用函数，直至数字长度为0.
+            //此时得到一种可能。
+            for (char c : chars) {
+                backTrack(s + c, num.substring(1), list, map);
+            }
+        }
     }
 
 }
