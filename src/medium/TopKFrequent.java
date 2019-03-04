@@ -13,9 +13,16 @@ public class TopKFrequent {
             return list;
         }
         PriorityQueue<Map.Entry<Integer,Integer>> pq = new PriorityQueue<>(new Comparator<Map.Entry<Integer, Integer>>() {
+            /**
+             *  对于小根堆，当父元素大于子元素时，需要进行交换。
+             *  对于大根堆，当父元素小于子元素时，需要进行交换。
+              * @param parent parent为父元素
+             * @param son son为子元素
+             * @return
+             */
             @Override
-            public int compare(Map.Entry<Integer, Integer> o1, Map.Entry<Integer, Integer> o2) {
-                return o2.getValue() - o1.getValue();
+            public int compare(Map.Entry<Integer, Integer> parent, Map.Entry<Integer, Integer> son) {
+                return son.getValue() - parent.getValue();
             }
         });
         Map<Integer,Integer> map = new LinkedHashMap<>();
