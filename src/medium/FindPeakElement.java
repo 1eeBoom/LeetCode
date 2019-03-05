@@ -26,7 +26,20 @@ package medium;
  * 你的解法应该是 O(logN) 时间复杂度的。
  */
 public class FindPeakElement {
-    public static int findPeakElement(int[] nums) {
+    public int findPeakElement(int[] nums) {
+        if(nums.length == 1)
+        {
+            return 0;
+        }
+        int i = 1;
+        while(i < nums.length && nums[i] > nums[i-1])
+        {
+            i++;
+        }
+        return i-1;
+    }
+    //二分法
+    public  int findPeakElement1(int[] nums) {
         int left = 0;
         int right = nums.length-1;
 
@@ -36,9 +49,5 @@ public class FindPeakElement {
             else right = mid;
         }
         return left;
-    }
-    public static void main(String[] args){
-        int[] nums = {1,2,3,1};
-        findPeakElement(nums);
     }
 }
