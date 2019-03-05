@@ -1,6 +1,8 @@
 package medium;
 
+import java.util.Comparator;
 import java.util.HashSet;
+import java.util.PriorityQueue;
 import java.util.Set;
 
 /**
@@ -18,6 +20,10 @@ import java.util.Set;
  * 说明:
  *
  * 你可以假设 k 总是有效的，且 1 ≤ k ≤ 数组的长度。
+ *
+ * 思路：
+ * 1.快排
+ * 2.大根堆
  */
 public class FindKthLargest {
     public static void main(String[] args){
@@ -69,5 +75,21 @@ public class FindKthLargest {
         nums[left] = flag;
         fastSort(nums,i,left-1);
         fastSort(nums,left+1,j);
+    }
+    public int findKthLargest1(int[] nums, int k) {
+        PriorityQueue<Integer> priorityQueue = new PriorityQueue<>(new Comparator<Integer>() {
+            @Override
+            public int compare(Integer father, Integer son) {
+                return son - father;
+            }
+        });
+        for (Integer i : nums) {
+            priorityQueue.add(i);
+        }
+        Integer rs = null;
+        for (int i = 0; i < k; i++) {
+            rs = priorityQueue.poll();
+        }
+        return rs;
     }
 }
