@@ -8,21 +8,24 @@ class Interval {
     Interval() { start = 0; end = 0; }
     Interval(int s, int e) { start = s; end = e; }
 }
-class Compare implements Comparator
-{
-    @Override
-    public int compare(Object o1, Object o2) {
-        return ((Interval)o1).start - ((Interval)o2).start;
-    }
-}
 public class Merge {
     public List<Interval> merge(List<Interval> intervals) {
 
-        Collections.sort(intervals,new Compare());
+        /**
+         * Comparator 取决于sort函数是根据1还是-1来决定交换元素。
+         * 如果是根据1来交换元素的话，则如果你想要升序，则需要O1>O2,这样o2才会到前面
+         */
+        Collections.sort(intervals, new Comparator<Interval>() {
+            @Override
+            public int compare(Interval o1, Interval o2) {
+                return ((Interval)o1).start - ((Interval)o2).start;
+            }
+        });
         List<Interval> intervals1 = new LinkedList<>();
         if (intervals.isEmpty()){
             return intervals1;
         }
+        //
         Interval last = intervals.get(0);
         Iterator iterator = intervals.iterator();
         while (iterator.hasNext()){
@@ -34,7 +37,6 @@ public class Merge {
                 last = cur;
             }
         }
-
         intervals1.add(last);
         return intervals1;
     }

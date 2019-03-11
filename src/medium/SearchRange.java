@@ -21,39 +21,45 @@ import java.util.List;
  * 输出: [-1,-1]
  */
 public class SearchRange {
-    public static int[] searchRange(int[] nums, int target) {
-        int[] ret = {-1,-1};
-        int len = nums.length;
-        int left = 0;
-        int right = len-1;
-        if(len==1&&nums[0]==target){
-            int[] ret1 = {0,0};
-            return ret1;
+    public int[] searchRange(int[] nums, int target) {
+        int[] res = new int[2];
+        res[0] = res[1] = -1;
+        if(nums.length == 0){
+            return res;
         }
-        while (left<=right){
-            int mid = (left+right)/2;
-            if(nums[mid] < target){
-                left = mid+1;
-            }else if(nums[mid] > target){
-                right = mid-1;
-            }else{
-                left = mid;
-                right = mid;
-                while(left>0&&nums[left-1]==target){
-                    left--;
-                }
-                while(right<len-1&&nums[right+1]==target){
-                    right++;
-                }
-                ret[0] = left;
-                ret[1] = right;
-                return ret;
+        //二分查找法
+        int left = 0;
+        int right = nums.length - 1;
+        int mid = 0;
+        //一定要left<=right 不然当left = right时，mid无法更新；
+        while(left <= right)
+        {
+            mid = (left + right) / 2;
+            if(nums[mid] == target){
+                break;
+            } else if (nums[mid] > target){
+                right = mid - 1;
+            } else {
+                left = mid + 1;
             }
         }
-        return ret;
-    }
-    public static void main(String[] args){
-        int[] nums ={1,4};
-        searchRange(nums,4);
+        if(nums[mid] == target)
+        {
+            int pre = mid;
+            int next = mid;
+            while(pre >= 0 && nums[pre] == target)
+            {
+                pre --;
+            }
+            pre ++;
+            while(next <= nums.length-1 && nums[next] == target)
+            {
+                next ++;
+            }
+            next --;
+            res[0] = pre;
+            res[1] = next;
+        }
+        return res;
     }
 }
