@@ -1,5 +1,7 @@
 package medium;
 
+import java.util.Arrays;
+
 /**
  * 给定一个无序的整数数组，找到其中最长上升子序列的长度。
  *
@@ -16,28 +18,29 @@ package medium;
  */
 public class LongestIncreasingSubsequence {
     public int lengthOfLIS(int[] nums) {
-       int[] dp = new int[nums.length];
-        for (int i = 0; i < dp.length; i++) {
-            dp[i] = 1;
+        if(nums.length == 0)
+        {
+            return 0;
         }
-        for (int i = 1; i < nums.length; i++) {
-            for (int j = 0; j < i ; j++) {
-                if(nums[j] < nums[i]){
-                    /**
-                     * 两种可能
-                     * 1.选择nums[j]作为上升子序列中在加上nums[i],dp[j]+1;
-                     * 2.不选择nums[j]作为子序列中的一个,维持原样不变.
-                     */
-                    dp[i] = Math.max(dp[j]+1, dp[i]);
+        int[] dp = new int[nums.length];
+        Arrays.fill(dp,1);
+        for(int i = 1; i < nums.length; i++)
+        {
+            int max = 0;
+            for(int j = 0; j <= i-1; j++)
+            {
+                if(nums[j] < nums[i] )
+                {
+                    max = Math.max(max,dp[j]);
                 }
             }
+            dp[i] = 1 + max;
         }
-        int max = 0;
-        for (int i = 0; i < dp.length; i++) {
-            if(dp[i] > max){
-                max = dp[i];
-            }
+        int len = 0;
+        for(int i = 0; i < nums.length; i++)
+        {
+            len = Math.max(len,dp[i]);
         }
-        return max;
+        return len;
     }
 }
