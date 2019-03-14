@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb41fd7e-9646-48bf-a751-a925aef79d29" name="Default Changelist" comment="2019年3月2日16:36:40 LeetCode-集合">
-      <change afterPath="$PROJECT_DIR$/src/medium/CreateBinTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/SearchRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/SearchRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/" />
@@ -19,24 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SearchRange.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/SearchRange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Merge.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/Merge.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1044">
               <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-              <folding>
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#608#609#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -50,11 +42,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchMatrix.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SearchMatrix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/SearchMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="41" column="37" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="41" selection-end-column="37" />
+            <state relative-caret-position="1363">
+              <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CanJump.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/CanJump.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoinChange.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/CoinChange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1073">
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MajorityElement.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/easy/MajorityElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+              <folding>
+                <element signature="e#5027#5028#0" expanded="true" />
+                <element signature="e#5098#5099#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestIncreasingSubsequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/LongestIncreasingSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -73,42 +114,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="551">
               <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindPeakElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/FindPeakElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1189">
-              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TopKFrequent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/TopKFrequent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindKthLargest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/FindKthLargest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PriorityQueue.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/PriorityQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3480">
-              <caret line="149" selection-start-line="149" selection-end-line="149" />
             </state>
           </provider>
         </entry>
@@ -147,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/medium/PreKHighFrequencyWords.java" />
         <option value="$PROJECT_DIR$/src/medium/SearchSortNums.java" />
         <option value="$PROJECT_DIR$/src/medium/SearchMatrix.java" />
-        <option value="$PROJECT_DIR$/src/medium/LongestIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/src/medium/CheckInclusion.java" />
         <option value="$PROJECT_DIR$/src/medium/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/medium/SetZeroes.java" />
@@ -188,6 +192,10 @@
         <option value="$PROJECT_DIR$/src/medium/SearchRange.java" />
         <option value="$PROJECT_DIR$/src/medium/Merge.java" />
         <option value="$PROJECT_DIR$/src/medium/Search.java" />
+        <option value="$PROJECT_DIR$/src/medium/CanJump.java" />
+        <option value="$PROJECT_DIR$/src/medium/CoinChange.java" />
+        <option value="$PROJECT_DIR$/src/medium/LongestIncreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/easy/MajorityElement.java" />
       </list>
     </option>
   </component>
@@ -214,7 +222,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,18 +238,13 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="struct" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,7 +254,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548645903954" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../dongxiang-sheep" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -406,7 +408,13 @@
       <workItem from="1552220239380" duration="22000" />
       <workItem from="1552269969207" duration="2064000" />
       <workItem from="1552289933807" duration="23000" />
-      <workItem from="1552315898384" duration="349000" />
+      <workItem from="1552315898384" duration="996000" />
+      <workItem from="1552350648565" duration="10000" />
+      <workItem from="1552393242650" duration="330000" />
+      <workItem from="1552395021188" duration="10413000" />
+      <workItem from="1552522761186" duration="1769000" />
+      <workItem from="1552531940319" duration="157000" />
+      <workItem from="1552532637986" duration="1031000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1543330152209</created>
@@ -597,11 +605,32 @@
       <option name="project" value="LOCAL" />
       <updated>1551799210518</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="2019年3月12日21:56:12 跳跃游戏">
+      <created>1552398981621</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1552398981621</updated>
+    </task>
+    <task id="LOCAL-00029" summary="2019年3月14日00:05:44 322. 零钱兑换">
+      <created>1552493151280</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1552493151280</updated>
+    </task>
+    <task id="LOCAL-00030" summary="2019年3月14日00:06:08 最长上升子序列">
+      <created>1552493176229</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1552493176229</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178813000" />
+    <option name="totallyTimeSpent" value="193170000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -626,10 +655,10 @@
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3293348" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.32846716" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.7276688" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.7273719" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.2793177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.29850745" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="1" sideWeight="0.500813" side_tool="true" weight="0.15138593" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -644,6 +673,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3293348" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -717,8 +747,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/LeetCode" />
     </ignored-roots>
-    <MESSAGE value="init" />
-    <MESSAGE value="单词搜索&#10;给定一个二维网格和一个单词，找出该单词是否存在于网格中。&#10;&#10;单词必须按照字母顺序，通过相邻的单元格内的字母构成，其中“相邻”单元格是那些水平相邻或垂直相邻的单元格。同一个单元格内的字母不允许被重复使用。&#10;&#10;示例:&#10;&#10;board =&#10;[&#10;  ['A','B','C','E'],&#10;  ['S','F','C','S'],&#10;  ['A','D','E','E']&#10;]&#10;&#10;给定 word = &quot;ABCCED&quot;, 返回 true.&#10;给定 word = &quot;SEE&quot;, 返回 true.&#10;给定 word = &quot;ABCB&quot;, 返回 false." />
     <MESSAGE value="2018年11月29日22:23:55 颜色分类" />
     <MESSAGE value="2018-12-07 347. 前K个高频元素" />
     <MESSAGE value="2018年12月08日 前K个最大数字" />
@@ -741,7 +769,10 @@
     <MESSAGE value="2019年3月4日23:36:34 注释优化" />
     <MESSAGE value="2019年3月5日21:46:08 215. 数组中的第K个最大元素" />
     <MESSAGE value="2019年3月5日23:20:01 寻找峰值" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019年3月5日23:20:01 寻找峰值" />
+    <MESSAGE value="2019年3月12日21:56:12 跳跃游戏" />
+    <MESSAGE value="2019年3月14日00:05:44 322. 零钱兑换" />
+    <MESSAGE value="2019年3月14日00:06:08 最长上升子序列" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019年3月14日00:06:08 最长上升子序列" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -757,26 +788,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/medium/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="28" column="45" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/out/production/LeetCode/Main.class" />
     <entry file="file://$PROJECT_DIR$/src/medium/Codec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/LongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1047,13 +1062,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="1538" column="32" lean-forward="true" selection-start-line="1538" selection-start-column="32" selection-end-line="1538" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/SearchRange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="812">
@@ -1065,10 +1073,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1044">
           <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-          <folding>
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1095,8 +1099,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/SearchMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="41" column="37" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="41" selection-end-column="37" />
+        <state relative-caret-position="1363">
+          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/CanJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/LongestIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/MajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
