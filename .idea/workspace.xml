@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb41fd7e-9646-48bf-a751-a925aef79d29" name="Default Changelist" comment="2019年3月14日11:21:23">
+    <list default="true" id="bb41fd7e-9646-48bf-a751-a925aef79d29" name="Default Changelist" comment="2019年3月15日14:19:34 最小路径和">
+      <change afterPath="$PROJECT_DIR$/src/medium/MaxArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
@@ -11,7 +12,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/Search.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/" />
@@ -27,11 +27,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Search.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Search.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="464">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinPathSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/MinPathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinationSum2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/CombinationSum2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinationSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/CombinationSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1189">
+              <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,64 +75,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MajorityElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/MajorityElement.java">
+      <file leaf-file-name="ColorClassification.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/ColorClassification.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1073">
-              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+            <state relative-caret-position="810">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Deque.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Deque.java">
+      <file leaf-file-name="MaxArea.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/medium/MaxArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4611">
-              <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestIncreasingSubsequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/LongestIncreasingSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestPalindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/LongestPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="method#longestPalindrome#0;class#LongestPalindrome#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exclude" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.git/info/exclude">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="435">
+              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -110,7 +96,7 @@
       <file leaf-file-name="DeckRevealedIncreasing.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/DeckRevealedIncreasing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="232">
               <caret line="10" selection-start-line="10" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -148,10 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/medium/WordSearch.java" />
-        <option value="$PROJECT_DIR$/src/medium/ColorClassification.java" />
-        <option value="$PROJECT_DIR$/src/medium/PreKHighFrequencyWords.java" />
-        <option value="$PROJECT_DIR$/src/medium/SearchSortNums.java" />
         <option value="$PROJECT_DIR$/src/medium/SearchMatrix.java" />
         <option value="$PROJECT_DIR$/src/medium/CheckInclusion.java" />
         <option value="$PROJECT_DIR$/src/medium/ThreeSum.java" />
@@ -199,6 +181,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/medium/DeckRevealedIncreasing.java" />
         <option value="$PROJECT_DIR$/src/medium/Search.java" />
+        <option value="$PROJECT_DIR$/src/medium/CombinationSum.java" />
+        <option value="$PROJECT_DIR$/src/medium/MinPathSum.java" />
+        <option value="$PROJECT_DIR$/src/medium/CombinationSum2.java" />
+        <option value="$PROJECT_DIR$/src/medium/MaxArea.java" />
       </list>
     </option>
   </component>
@@ -223,8 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,23 +233,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="struct" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="build&#9;FILE&#9;file://C:/Users/19222/Desktop/LeetCode/src/medium/BuildTree.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore&#10;true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548645903954" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -433,7 +413,13 @@
       <workItem from="1552532637986" duration="1079000" />
       <workItem from="1552533751067" duration="1685000" />
       <workItem from="1552547277599" duration="3640000" />
-      <workItem from="1552616545789" duration="3893000" />
+      <workItem from="1552616545789" duration="4627000" />
+      <workItem from="1552637305296" duration="89000" />
+      <workItem from="1552723225421" duration="989000" />
+      <workItem from="1552735698817" duration="557000" />
+      <workItem from="1552736283636" duration="170000" />
+      <workItem from="1552741272504" duration="36000" />
+      <workItem from="1552911048264" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1543330152209</created>
@@ -659,11 +645,32 @@
       <option name="project" value="LOCAL" />
       <updated>1552618635231</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="2019年3月15日14:19:34 最小路径和">
+      <created>1552630785523</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1552630785523</updated>
+    </task>
+    <task id="LOCAL-00034" summary="2019年3月16日19:38:19 组合总和">
+      <created>1552736314375</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1552736314375</updated>
+    </task>
+    <task id="LOCAL-00035" summary="2019年3月16日19:38:47 组合总和2">
+      <created>1552736349657</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1552736349657</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202436000" />
+    <option name="totallyTimeSpent" value="205983000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -676,6 +683,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.3293348" />
@@ -690,7 +698,7 @@
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.7273719" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836424" visible="true" weight="0.30810234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836424" visible="true" weight="0.3283582" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Learn" order="6" weight="0.32995737" />
       <window_info id="Structure" order="1" sideWeight="0.5016358" side_tool="true" weight="0.30170575" />
@@ -780,9 +788,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/LeetCode" />
     </ignored-roots>
-    <MESSAGE value="2018年12月08日 前K个最大数字" />
-    <MESSAGE value="2018年12月10日" />
-    <MESSAGE value="2018年12月20日 合并区间" />
     <MESSAGE value="中序遍历二叉树" />
     <MESSAGE value="2019年2月17日15:27:57 中序遍历二叉树以及对于递归问题的部分练习" />
     <MESSAGE value="2019年2月19日21:04:55 二叉树的锯齿形层次遍历" />
@@ -805,7 +810,10 @@
     <MESSAGE value="2019年3月14日00:06:08 最长上升子序列" />
     <MESSAGE value="2019年3月14日11:21:23" />
     <MESSAGE value="2019年3月15日10:56:53 950. 按递增顺序显示卡牌" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019年3月15日10:56:53 950. 按递增顺序显示卡牌" />
+    <MESSAGE value="2019年3月15日14:19:34 最小路径和" />
+    <MESSAGE value="2019年3月16日19:38:19 组合总和" />
+    <MESSAGE value="2019年3月16日19:38:47 组合总和2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019年3月16日19:38:47 组合总和2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -821,28 +829,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/medium/LengthOfLongestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/InorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1711">
-          <caret line="64" column="43" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/ZigzagLevelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard.java" />
     <entry file="file://$PROJECT_DIR$/src/struct/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -969,13 +955,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/ColorClassification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1508">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/PreKHighFrequencyWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -1078,10 +1057,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2929">
           <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1120,16 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="method#longestPalindrome#0;class#LongestPalindrome#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1140,30 +1105,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4611">
-          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/DeckRevealedIncreasing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
+        <state relative-caret-position="232">
           <caret line="10" selection-start-line="10" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1173,8 +1117,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/Search.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="464">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/CombinationSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1189">
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/MinPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/CombinationSum2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-931">
+          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/ColorClassification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/MaxArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
         </state>
       </provider>
     </entry>
