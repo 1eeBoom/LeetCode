@@ -4,5 +4,10 @@
 持续更新中....
 
 解题思路及过程可参考个人博客:
+www.LeeBoom.com
 
-http://www.leeboom.com:8090/
+目标:
+* [ ]  LeetCode 100 题
+* [ ]  LeetCode 200 题
+
+     
