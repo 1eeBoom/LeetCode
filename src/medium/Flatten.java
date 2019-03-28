@@ -40,14 +40,14 @@ import struct.TreeNode;
  */
 public class Flatten {
     public void flatten(TreeNode root) {
-        if(root == null) {
-            return ;
+        if (root == null) {
+            return;
         }
 
         TreeNode rightNode = null;
         //保存右子树节点
-        if(root.right != null) {
-            rightNode  = root.right;
+        if (root.right != null) {
+            rightNode = root.right;
         }
         flatten(root.left);
         flatten(root.right);
@@ -55,15 +55,16 @@ public class Flatten {
         root.right = root.left;
         //左子树置空
         root.left = null;
-        while(root.right != null){
+        while (root.right != null) {
             root = root.right;
         }
-        if(rightNode != null){
+        if (rightNode != null) {
             root.right = rightNode;
         }
 
     }
-    public static void main(String[] args){
+
+    public static void main(String[] args) {
         Flatten flatten = new Flatten();
         TreeNode t1 = new TreeNode(1);
         TreeNode t2 = new TreeNode(2);
