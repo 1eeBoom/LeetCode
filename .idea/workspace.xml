@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb41fd7e-9646-48bf-a751-a925aef79d29" name="Default Changelist" comment="2019年3月24日16:02:43 LeetCode 100 题达成">
-      <change afterPath="$PROJECT_DIR$/src/medium/RemoveDuplicates.java" afterDir="false" />
+    <list default="true" id="bb41fd7e-9646-48bf-a751-a925aef79d29" name="Default Changelist" comment="2019年3月27日12:55:53 路径总和 II">
+      <change afterPath="$PROJECT_DIR$/src/medium/NumFriendRequests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/question1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,59 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ThreeSumClosest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/ThreeSumClosest.java">
+      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/AddTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="87">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UniquePathsWithObstacles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/UniquePathsWithObstacles.java">
+      <file leaf-file-name="PathSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/PathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1131">
-              <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="377">
-                <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveDuplicates.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/medium/RemoveDuplicates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/SearchMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1334">
-              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FourSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/FourSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2088">
-              <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+            <state relative-caret-position="1305">
+              <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,29 +42,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConvertZ.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/ConvertZ.java">
+      <file leaf-file-name="Flatten.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/Flatten.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="1798">
+              <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntToRoman.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/IntToRoman.java">
+      <file leaf-file-name="Connect2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/Connect2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state relative-caret-position="1972">
+              <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpiralOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/SpiralOrder.java">
+      <file leaf-file-name="SumNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/SumNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="725">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,11 +72,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenerateMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/GenerateMatrix.java">
+      <file leaf-file-name="ThreeSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            <state relative-caret-position="464">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <folding>
+                <element signature="e#458#473#0" expanded="true" />
+                <element signature="e#985#994#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="question1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/question1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="55" column="55" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumFriendRequests.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/medium/NumFriendRequests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#357#375#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/struct/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -147,15 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/medium/Codec.java" />
-        <option value="$PROJECT_DIR$/src/medium/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/medium/OddEvenList.java" />
-        <option value="$PROJECT_DIR$/src/medium/GetIntersectionNode.java" />
-        <option value="$PROJECT_DIR$/src/medium/InorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/medium/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/medium/ZigzagLevelOrder.java" />
-        <option value="$PROJECT_DIR$/src/hard.java" />
-        <option value="$PROJECT_DIR$/src/struct/ListNode.java" />
         <option value="$PROJECT_DIR$/src/struct/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/medium/BuildTree.java" />
         <option value="$PROJECT_DIR$/src/struct/TreeLinkNode.java" />
@@ -198,6 +187,15 @@
         <option value="$PROJECT_DIR$/src/medium/UniquePathsWithObstacles.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/medium/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/medium/PathSum.java" />
+        <option value="$PROJECT_DIR$/src/medium/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Flatten.java" />
+        <option value="$PROJECT_DIR$/src/medium/Flatten.java" />
+        <option value="$PROJECT_DIR$/src/struct/Node.java" />
+        <option value="$PROJECT_DIR$/src/medium/Connect2.java" />
+        <option value="$PROJECT_DIR$/src/medium/SumNumbers.java" />
+        <option value="$PROJECT_DIR$/src/medium/NumFriendRequests.java" />
+        <option value="$PROJECT_DIR$/src/medium/question1.java" />
       </list>
     </option>
   </component>
@@ -211,7 +209,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="-1928" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -222,7 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,6 +247,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -276,17 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicates">
-    <configuration name="Codec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Codec" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="struct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.NumFriendRequests">
     <configuration name="ConvertZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.ConvertZ" />
       <module name="LeetCode" />
@@ -297,12 +285,16 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FindKthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.FindKthLargest" />
+    <configuration name="Flatten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Flatten" />
+      <module name="LeetCode" />
+    </configuration>
+    <configuration name="NumFriendRequests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.NumFriendRequests" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="struct.*" />
+          <option name="PATTERN" value="medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,30 +309,30 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SetZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.SetZeroes" />
+    <configuration name="question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.question1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="struct.*" />
+          <option name="PATTERN" value="medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Codec" />
-      <item itemvalue="Application.FindKthLargest" />
-      <item itemvalue="Application.SetZeroes" />
       <item itemvalue="Application.ConvertZ" />
       <item itemvalue="Application.RemoveDuplicates" />
+      <item itemvalue="Application.Flatten" />
+      <item itemvalue="Application.question1" />
+      <item itemvalue="Application.NumFriendRequests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumFriendRequests" />
+        <item itemvalue="Application.question1" />
+        <item itemvalue="Application.Flatten" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.ConvertZ" />
-        <item itemvalue="Application.FindKthLargest" />
-        <item itemvalue="Application.SetZeroes" />
-        <item itemvalue="Application.Codec" />
       </list>
     </recent_temporary>
   </component>
@@ -440,21 +432,17 @@
       <workItem from="1553399419661" duration="375000" />
       <workItem from="1553413833468" duration="879000" />
       <workItem from="1553415784684" duration="16000" />
-      <workItem from="1553498933293" duration="1455000" />
-    </task>
-    <task id="LOCAL-00001" summary="init">
-      <created>1543330152209</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1543330152209</updated>
-    </task>
-    <task id="LOCAL-00002" summary="单词搜索&#10;给定一个二维网格和一个单词，找出该单词是否存在于网格中。&#10;&#10;单词必须按照字母顺序，通过相邻的单元格内的字母构成，其中“相邻”单元格是那些水平相邻或垂直相邻的单元格。同一个单元格内的字母不允许被重复使用。&#10;&#10;示例:&#10;&#10;board =&#10;[&#10;  ['A','B','C','E'],&#10;  ['S','F','C','S'],&#10;  ['A','D','E','E']&#10;]&#10;&#10;给定 word = &quot;ABCCED&quot;, 返回 true.&#10;给定 word = &quot;SEE&quot;, 返回 true.&#10;给定 word = &quot;ABCB&quot;, 返回 false.">
-      <created>1543333350085</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1543333350085</updated>
+      <workItem from="1553498933293" duration="3174000" />
+      <workItem from="1553604196647" duration="261000" />
+      <workItem from="1553659199725" duration="1975000" />
+      <workItem from="1553671909017" duration="2859000" />
+      <workItem from="1553764015033" duration="3935000" />
+      <workItem from="1553825390187" duration="1374000" />
+      <workItem from="1554047082148" duration="637000" />
+      <workItem from="1554213238380" duration="9000" />
+      <workItem from="1554896922772" duration="3792000" />
+      <workItem from="1554984620329" duration="10000" />
+      <workItem from="1555080986952" duration="2402000" />
     </task>
     <task id="LOCAL-00003" summary="2018年11月29日22:23:55 颜色分类">
       <created>1543501456185</created>
@@ -764,11 +752,46 @@
       <option name="project" value="LOCAL" />
       <updated>1553414678175</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="2019年3月25日20:56:17 80. 删除排序数组中的重复项 II">
+      <created>1553518584544</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1553518584544</updated>
+    </task>
+    <task id="LOCAL-00048" summary="2019年3月27日12:55:53 路径总和 II">
+      <created>1553662590888</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1553662590888</updated>
+    </task>
+    <task id="LOCAL-00049" summary="2019年3月27日18:06:32 114. 二叉树展开为链表">
+      <created>1553681207907</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1553681207907</updated>
+    </task>
+    <task id="LOCAL-00050" summary="2019年3月28日 格式优化， 左右小括号 和 关键字以及大括号之间要空格">
+      <created>1553766774185</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1553766774186</updated>
+    </task>
+    <task id="LOCAL-00051" summary="2019年3月28日21:26:30 117. 填充每个节点的下一个右侧节点指针 II">
+      <created>1553779599879</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1553779599879</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220672000" />
+    <option name="totallyTimeSpent" value="239645000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -780,7 +803,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -792,12 +815,12 @@
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3293348" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32824427" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32824427" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3293348" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.7273719" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836424" visible="true" weight="0.3619403" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836424" visible="true" weight="0.39978677" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Learn" order="6" weight="0.32995737" />
       <window_info id="Structure" order="1" sideWeight="0.5016358" side_tool="true" weight="0.30170575" />
@@ -886,11 +909,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/LeetCode" />
     </ignored-roots>
-    <MESSAGE value="2019年3月3日23:27:06 单词搜索" />
-    <MESSAGE value="2019年3月4日12:51:10 颜色分类" />
-    <MESSAGE value="2019年3月4日22:25:27 347. 前K个高频元素" />
-    <MESSAGE value="2019年3月4日23:36:34 注释优化" />
-    <MESSAGE value="2019年3月5日21:46:08 215. 数组中的第K个最大元素" />
     <MESSAGE value="2019年3月5日23:20:01 寻找峰值" />
     <MESSAGE value="2019年3月12日21:56:12 跳跃游戏" />
     <MESSAGE value="2019年3月14日00:05:44 322. 零钱兑换" />
@@ -911,7 +929,12 @@
     <MESSAGE value="2019年3月24日15:51:26 63. 不同路径 II" />
     <MESSAGE value="2019年3月24日15:54:44 目标更新" />
     <MESSAGE value="2019年3月24日16:02:43 LeetCode 100题达成" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019年3月24日16:02:43 LeetCode 100题达成" />
+    <MESSAGE value="2019年3月25日20:56:17 80. 删除排序数组中的重复项 II" />
+    <MESSAGE value="2019年3月27日12:55:53 路径总和 II" />
+    <MESSAGE value="2019年3月27日18:06:32 114. 二叉树展开为链表" />
+    <MESSAGE value="2019年3月28日 格式优化， 左右小括号 和 关键字以及大括号之间要空格" />
+    <MESSAGE value="2019年3月28日21:26:30 117. 填充每个节点的下一个右侧节点指针 II" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019年3月28日21:26:30 117. 填充每个节点的下一个右侧节点指针 II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -923,93 +946,58 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/medium/RemoveDuplicates.java</url>
-          <line>12</line>
+          <url>file://$PROJECT_DIR$/src/medium/Flatten.java</url>
+          <line>40</line>
           <properties />
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/Flatten.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/question1.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/question1.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/question1.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/question1.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/question1.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/question1.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="35" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/medium/KthSmallest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1595">
-          <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="993">
-          <caret line="683" column="13" selection-start-line="683" selection-start-column="13" selection-end-line="683" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/LetterCombinations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2900">
-          <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/GenerateParenthesis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1972">
-          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/Permute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/Subsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1885">
-          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/PreKHighFrequencyWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/WordExist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2001">
-          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/sortColors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -1227,9 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1251,9 +1236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2088">
           <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1290,8 +1272,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        <state relative-caret-position="319">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/PathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/Flatten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1798">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/struct/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/Connect2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <element signature="e#458#473#0" expanded="true" />
+            <element signature="e#985#994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="903" column="18" selection-start-line="903" selection-start-column="18" selection-end-line="903" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/SumNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/question1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="55" column="55" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/NumFriendRequests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#357#375#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
