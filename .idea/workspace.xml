@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb41fd7e-9646-48bf-a751-a925aef79d29" name="Default Changelist" comment="2019年3月27日12:55:53 路径总和 II">
-      <change afterPath="$PROJECT_DIR$/src/medium/NumFriendRequests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/IsBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/PermuteUnique.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/medium/question1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/" />
@@ -21,36 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/AddTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PathSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/PathSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1305">
-              <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Flatten.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/Flatten.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1798">
-              <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Connect2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/Connect2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,10 +54,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="464">
               <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-              <folding>
-                <element signature="e#458#473#0" expanded="true" />
-                <element signature="e#985#994#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -88,30 +61,70 @@
       <file leaf-file-name="question1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/question1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="1595">
               <caret line="55" column="55" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumFriendRequests.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NumFriendRequests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/NumFriendRequests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="232">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#357#375#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/struct/Node.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            <state relative-caret-position="812">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwapPairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/SwapPairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OddEvenList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/OddEvenList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsBalanced.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/IsBalanced.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermuteUnique.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/medium/PermuteUnique.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="54" column="38" lean-forward="true" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#313#328#0" expanded="true" />
+                <element signature="e#551#560#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,9 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/struct/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/medium/BuildTree.java" />
-        <option value="$PROJECT_DIR$/src/struct/TreeLinkNode.java" />
         <option value="$PROJECT_DIR$/src/medium/Connect.java" />
         <option value="$PROJECT_DIR$/src/medium/KthSmallest.java" />
         <option value="$PROJECT_DIR$/src/medium/CreateBinTree.java" />
@@ -177,7 +187,6 @@
         <option value="$PROJECT_DIR$/src/medium/MaxArea.java" />
         <option value="$PROJECT_DIR$/src/easy/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/medium/ThreeSumClosest.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/medium/FourSum.java" />
         <option value="$PROJECT_DIR$/src/medium/NextPermutation.java" />
         <option value="$PROJECT_DIR$/src/medium/ConvertZ.java" />
@@ -196,6 +205,10 @@
         <option value="$PROJECT_DIR$/src/medium/SumNumbers.java" />
         <option value="$PROJECT_DIR$/src/medium/NumFriendRequests.java" />
         <option value="$PROJECT_DIR$/src/medium/question1.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/medium/SwapPairs.java" />
+        <option value="$PROJECT_DIR$/src/medium/IsBalanced.java" />
+        <option value="$PROJECT_DIR$/src/medium/PermuteUnique.java" />
       </list>
     </option>
   </component>
@@ -209,8 +222,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+    <option name="x" value="-141" />
+    <option name="y" value="89" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -220,6 +233,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,9 +263,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,7 +272,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548645903954" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dongxiang-sheep" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Daily" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -274,9 +287,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumFriendRequests">
-    <configuration name="ConvertZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.ConvertZ" />
+  <component name="RunManager" selected="Application.PermuteUnique">
+    <configuration name="Flatten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Flatten" />
+      <module name="LeetCode" />
+    </configuration>
+    <configuration name="NumFriendRequests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.NumFriendRequests" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -285,12 +302,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Flatten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Flatten" />
-      <module name="LeetCode" />
-    </configuration>
-    <configuration name="NumFriendRequests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.NumFriendRequests" />
+    <configuration name="PermuteUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.PermuteUnique" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -320,19 +333,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.ConvertZ" />
       <item itemvalue="Application.RemoveDuplicates" />
       <item itemvalue="Application.Flatten" />
       <item itemvalue="Application.question1" />
       <item itemvalue="Application.NumFriendRequests" />
+      <item itemvalue="Application.PermuteUnique" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PermuteUnique" />
         <item itemvalue="Application.NumFriendRequests" />
         <item itemvalue="Application.question1" />
         <item itemvalue="Application.Flatten" />
         <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.ConvertZ" />
       </list>
     </recent_temporary>
   </component>
@@ -442,42 +455,13 @@
       <workItem from="1554213238380" duration="9000" />
       <workItem from="1554896922772" duration="3792000" />
       <workItem from="1554984620329" duration="10000" />
-      <workItem from="1555080986952" duration="2402000" />
-    </task>
-    <task id="LOCAL-00003" summary="2018年11月29日22:23:55 颜色分类">
-      <created>1543501456185</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1543501456185</updated>
-    </task>
-    <task id="LOCAL-00004" summary="2018-12-07 347. 前K个高频元素">
-      <created>1544161739377</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1544161739377</updated>
-    </task>
-    <task id="LOCAL-00005" summary="2018年12月08日 前K个最大数字">
-      <created>1544270614127</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1544270614127</updated>
-    </task>
-    <task id="LOCAL-00006" summary="2018年12月10日">
-      <created>1544413017794</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1544413017794</updated>
-    </task>
-    <task id="LOCAL-00007" summary="2018年12月20日 合并区间">
-      <created>1545267927955</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1545267927955</updated>
+      <workItem from="1555080986952" duration="2481000" />
+      <workItem from="1555084233427" duration="68000" />
+      <workItem from="1555084757787" duration="242000" />
+      <workItem from="1555168711582" duration="2655000" />
+      <workItem from="1555304821427" duration="1349000" />
+      <workItem from="1555320352566" duration="723000" />
+      <workItem from="1555329680057" duration="783000" />
     </task>
     <task id="LOCAL-00008" summary="2018年12月20日 合并区间">
       <created>1545267946855</created>
@@ -787,11 +771,46 @@
       <option name="project" value="LOCAL" />
       <updated>1553779599879</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="2019-4-12 23:49:19 825. 适龄的朋友">
+      <created>1555084174544</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1555084174546</updated>
+    </task>
+    <task id="LOCAL-00053" summary="2019/3/29 10:10 SumNumbers">
+      <created>1555084202959</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1555084202959</updated>
+    </task>
+    <task id="LOCAL-00054" summary="2019年3月27日12:55:53 路径总和 II">
+      <created>1555084907412</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1555084907412</updated>
+    </task>
+    <task id="LOCAL-00055" summary="2019-4-13 00:03:03">
+      <created>1555084990790</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1555084990790</updated>
+    </task>
+    <task id="LOCAL-00056" summary="2019-4-13 23:20:22 24. 两两交换链表中的节点">
+      <created>1555168836429</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1555168836430</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239645000" />
+    <option name="totallyTimeSpent" value="245544000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -803,7 +822,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -815,12 +834,12 @@
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3293348" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32824427" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32824427" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3293348" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.7273719" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836424" visible="true" weight="0.39978677" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836424" visible="true" weight="0.1444563" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Learn" order="6" weight="0.32995737" />
       <window_info id="Structure" order="1" sideWeight="0.5016358" side_tool="true" weight="0.30170575" />
@@ -833,12 +852,12 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32846716" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.3293348" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="9" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3293348" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Maven" order="5" />
@@ -909,10 +928,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/LeetCode" />
     </ignored-roots>
-    <MESSAGE value="2019年3月5日23:20:01 寻找峰值" />
-    <MESSAGE value="2019年3月12日21:56:12 跳跃游戏" />
-    <MESSAGE value="2019年3月14日00:05:44 322. 零钱兑换" />
-    <MESSAGE value="2019年3月14日00:06:08 最长上升子序列" />
     <MESSAGE value="2019年3月14日11:21:23" />
     <MESSAGE value="2019年3月15日10:56:53 950. 按递增顺序显示卡牌" />
     <MESSAGE value="2019年3月15日14:19:34 最小路径和" />
@@ -930,11 +945,15 @@
     <MESSAGE value="2019年3月24日15:54:44 目标更新" />
     <MESSAGE value="2019年3月24日16:02:43 LeetCode 100题达成" />
     <MESSAGE value="2019年3月25日20:56:17 80. 删除排序数组中的重复项 II" />
-    <MESSAGE value="2019年3月27日12:55:53 路径总和 II" />
     <MESSAGE value="2019年3月27日18:06:32 114. 二叉树展开为链表" />
     <MESSAGE value="2019年3月28日 格式优化， 左右小括号 和 关键字以及大括号之间要空格" />
     <MESSAGE value="2019年3月28日21:26:30 117. 填充每个节点的下一个右侧节点指针 II" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019年3月28日21:26:30 117. 填充每个节点的下一个右侧节点指针 II" />
+    <MESSAGE value="2019-4-12 23:49:19 825. 适龄的朋友" />
+    <MESSAGE value="2019/3/29 10:10 SumNumbers" />
+    <MESSAGE value="2019年3月27日12:55:53 路径总和 II" />
+    <MESSAGE value="2019-4-13 00:03:03" />
+    <MESSAGE value="2019-4-13 23:20:22 24. 两两交换链表中的节点" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-13 23:20:22 24. 两两交换链表中的节点" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -993,39 +1012,29 @@
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/PermuteUnique.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/PermuteUnique.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/PermuteUnique.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="35" />
+      <option name="time" value="46" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3480">
-          <caret line="149" selection-start-line="149" selection-end-line="149" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/TopKFrequent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/FindKthLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/FindPeakElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1189">
@@ -1183,13 +1192,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/NextPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -1288,9 +1290,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1305">
           <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1326,10 +1325,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding>
-            <element signature="e#458#473#0" expanded="true" />
-            <element signature="e#985#994#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1350,20 +1345,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/NumFriendRequests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/SwapPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/OddEvenList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/question1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="1595">
           <caret line="55" column="55" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/NumFriendRequests.java">
+    <entry file="file://$PROJECT_DIR$/src/medium/IsBalanced.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="290">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/PermuteUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="54" column="38" lean-forward="true" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#357#375#0" expanded="true" />
+            <element signature="e#313#328#0" expanded="true" />
+            <element signature="e#551#560#0" expanded="true" />
           </folding>
         </state>
       </provider>
