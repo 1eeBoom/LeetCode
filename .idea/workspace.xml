@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb41fd7e-9646-48bf-a751-a925aef79d29" name="Default Changelist" comment="2019年3月27日12:55:53 路径总和 II">
-      <change afterPath="$PROJECT_DIR$/src/medium/IsBalanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/PermuteUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/RotateRight.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/medium/question1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/" />
@@ -28,36 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Connect2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/Connect2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1972">
-              <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/SumNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreeSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/ThreeSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="question1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/question1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,16 +77,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PermuteUnique.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PermuteUnique.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/PermuteUnique.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="54" column="38" lean-forward="true" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+            <state relative-caret-position="1276">
+              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#313#328#0" expanded="true" />
-                <element signature="e#551#560#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetPermutation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/GetPermutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1624">
+              <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotateRight.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/medium/RotateRight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Permute.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/Permute.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1740">
+              <caret line="61" selection-start-line="61" selection-end-line="65" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -145,6 +135,7 @@
       <find>*</find>
       <find>siftDown</find>
       <find>comparator</find>
+      <find>swap</find>
     </findStrings>
     <replaceStrings>
       <replace>{</replace>
@@ -158,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/medium/Connect.java" />
         <option value="$PROJECT_DIR$/src/medium/KthSmallest.java" />
         <option value="$PROJECT_DIR$/src/medium/CreateBinTree.java" />
         <option value="$PROJECT_DIR$/src/medium/NumIslands.java" />
@@ -209,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/medium/SwapPairs.java" />
         <option value="$PROJECT_DIR$/src/medium/IsBalanced.java" />
         <option value="$PROJECT_DIR$/src/medium/PermuteUnique.java" />
+        <option value="$PROJECT_DIR$/src/medium/GetPermutation.java" />
       </list>
     </option>
   </component>
@@ -233,7 +224,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -263,6 +253,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,10 +278,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PermuteUnique">
+  <component name="RunManager" selected="Application.GetPermutation">
     <configuration name="Flatten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.Flatten" />
       <module name="LeetCode" />
+    </configuration>
+    <configuration name="GetPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.GetPermutation" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="NumFriendRequests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.NumFriendRequests" />
@@ -312,16 +313,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.RemoveDuplicates" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.question1" />
       <module name="LeetCode" />
@@ -333,19 +324,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveDuplicates" />
       <item itemvalue="Application.Flatten" />
       <item itemvalue="Application.question1" />
       <item itemvalue="Application.NumFriendRequests" />
       <item itemvalue="Application.PermuteUnique" />
+      <item itemvalue="Application.GetPermutation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetPermutation" />
         <item itemvalue="Application.PermuteUnique" />
         <item itemvalue="Application.NumFriendRequests" />
         <item itemvalue="Application.question1" />
         <item itemvalue="Application.Flatten" />
-        <item itemvalue="Application.RemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -461,28 +452,9 @@
       <workItem from="1555168711582" duration="2655000" />
       <workItem from="1555304821427" duration="1349000" />
       <workItem from="1555320352566" duration="723000" />
-      <workItem from="1555329680057" duration="783000" />
-    </task>
-    <task id="LOCAL-00008" summary="2018年12月20日 合并区间">
-      <created>1545267946855</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1545267946855</updated>
-    </task>
-    <task id="LOCAL-00009" summary="2018年12月20日 合并区间">
-      <created>1545267964403</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1545267964403</updated>
-    </task>
-    <task id="LOCAL-00010" summary="2018年12月20日 合并区间">
-      <created>1545268043786</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1545268043786</updated>
+      <workItem from="1555329680057" duration="887000" />
+      <workItem from="1555396635819" duration="3522000" />
+      <workItem from="1555488199045" duration="662000" />
     </task>
     <task id="LOCAL-00011" summary="中序遍历二叉树">
       <created>1550239175146</created>
@@ -806,11 +778,32 @@
       <option name="project" value="LOCAL" />
       <updated>1555168836430</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="2019-4-15 20:21:39 110. 平衡二叉树">
+      <created>1555330911290</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1555330911291</updated>
+    </task>
+    <task id="LOCAL-00058" summary="2019-4-15 20:21:59 47. 全排列 II">
+      <created>1555330934549</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1555330934549</updated>
+    </task>
+    <task id="LOCAL-00059" summary="2019-4-16 17:16:34 60. 第k个排列">
+      <created>1555406203923</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1555406203923</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="245544000" />
+    <option name="totallyTimeSpent" value="249832000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -827,19 +820,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.3293348" />
-      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3293348" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32824427" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32824427" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3293348" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.7273719" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836424" visible="true" weight="0.1444563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836424" visible="true" weight="0.14765458" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Learn" order="6" weight="0.32995737" />
       <window_info id="Structure" order="1" sideWeight="0.5016358" side_tool="true" weight="0.30170575" />
@@ -849,6 +841,7 @@
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3991276" />
       <window_info id="Favorites" order="6" sideWeight="0.5016358" side_tool="true" weight="0.30170575" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32846716" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -928,9 +921,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/LeetCode" />
     </ignored-roots>
-    <MESSAGE value="2019年3月14日11:21:23" />
-    <MESSAGE value="2019年3月15日10:56:53 950. 按递增顺序显示卡牌" />
-    <MESSAGE value="2019年3月15日14:19:34 最小路径和" />
     <MESSAGE value="2019年3月16日19:38:19 组合总和" />
     <MESSAGE value="2019年3月16日19:38:47 组合总和2" />
     <MESSAGE value="2019年3月18日20:51:01 11. 盛最多水的容器" />
@@ -953,7 +943,10 @@
     <MESSAGE value="2019年3月27日12:55:53 路径总和 II" />
     <MESSAGE value="2019-4-13 00:03:03" />
     <MESSAGE value="2019-4-13 23:20:22 24. 两两交换链表中的节点" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-4-13 23:20:22 24. 两两交换链表中的节点" />
+    <MESSAGE value="2019-4-15 20:21:39 110. 平衡二叉树" />
+    <MESSAGE value="2019-4-15 20:21:59 47. 全排列 II" />
+    <MESSAGE value="2019-4-16 17:16:34 60. 第k个排列" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-16 17:16:34 60. 第k个排列" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1014,12 +1007,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/medium/PermuteUnique.java</url>
-          <line>56</line>
-          <properties />
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/medium/PermuteUnique.java</url>
           <line>31</line>
           <properties />
           <option name="timeStamp" value="44" />
@@ -1031,31 +1018,10 @@
           <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="46" />
+      <option name="time" value="55" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/medium/FindPeakElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1189">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="477" column="17" lean-forward="true" selection-start-line="477" selection-start-column="17" selection-end-line="477" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/SearchRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/Merge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1044">
@@ -1074,13 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2929">
-          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1392,13 +1351,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/PermuteUnique.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="54" column="38" lean-forward="true" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+        <state relative-caret-position="1276">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#313#328#0" expanded="true" />
-            <element signature="e#551#560#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/Permute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="61" selection-start-line="61" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="1306" column="23" selection-start-line="1306" selection-start-column="23" selection-end-line="1306" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/GetPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1624">
+          <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/RotateRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
