@@ -13,31 +13,23 @@ import java.util.List;
 public class subsetsWithDup {
     public  List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        int len = nums.length;
         List<List<Integer>> res = new LinkedList<>();
-        if(len == 0)
-        {
-            return res;
-        }
-        //max 为代表长度为n的数组的所有元素都选择的相应的二进制数2^n-1
-        int max = 1;
-        for(int i = 0; i < len; i++) {
-            max *= 2;
-        }
-        for (int i = 0; i < max; i++) {
-            List<Integer> list = new LinkedList<>();
-            int temp = i;
-            for (int j = 0; j < len; j++) {
-                if((temp & 1) == 1)
-                {
-                    list.add(nums[j]);
-                }
-                temp = temp>>1;
-            }
-            if(!res.contains(list)) {
-                res.add(list);
-            }
-        }
+        dfs(res, new LinkedList<>(), 0, nums);
         return res;
+    }
+    public void dfs(List<List<Integer>> res, List<Integer> list,int start, int[] nums) {
+        if(start == nums.length) {
+            List<Integer> temp = new LinkedList<>(list);
+             if(!res.contains(temp)) {
+            res.add(temp);
+             }
+        } else {
+            //选择当前nums[i]加入List中
+            list.add(nums[start]);
+            dfs(res, list, start+1, nums);
+            list.remove(list.size() - 1);
+            //不选择当前的nums[i]加入到List中
+            dfs(res, list, start+1, nums);
+        }
     }
 }
