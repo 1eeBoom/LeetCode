@@ -26,5 +26,3 @@ hs_err_pid*
 /.idea/
 .gitignore
 /out/
-
-.idea/workspace.xml

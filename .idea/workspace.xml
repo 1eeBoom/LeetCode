@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb41fd7e-9646-48bf-a751-a925aef79d29" name="Default Changelist" comment="二分查找">
+      <change afterPath="$PROJECT_DIR$/src/offer/Offer03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +118,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
@@ -180,7 +184,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/adx-server-java" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RunManager" selected="Application.HeapSort">
     <configuration name="BinSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -394,7 +398,8 @@
       <workItem from="1626088364624" duration="191000" />
       <workItem from="1626180497533" duration="1353000" />
       <workItem from="1626245209180" duration="1999000" />
-      <workItem from="1626253508536" duration="2013000" />
+      <workItem from="1626253508536" duration="3913000" />
+      <workItem from="1626267857220" duration="79000" />
     </task>
     <task id="LOCAL-00016" summary="2019年2月26日20:10:47 岛屿的个数">
       <created>1551183063025</created>
